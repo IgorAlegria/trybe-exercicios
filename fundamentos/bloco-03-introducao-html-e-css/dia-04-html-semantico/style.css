@@ -1,0 +1,19 @@
+header{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.content {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.navigation li{
+    display: inline;
+}
+
+.article li{
+    display: block;
+}
+
