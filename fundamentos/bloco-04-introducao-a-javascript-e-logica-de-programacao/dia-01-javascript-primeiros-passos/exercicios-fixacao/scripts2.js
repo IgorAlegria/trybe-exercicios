@@ -11,3 +11,4 @@ console.log(area);
 // 3 Crie uma constante chamada perimeter e atribua a ela a soma de todos os lados do retângulo.
 const perimeter = base * 2 + height * 2;
 console.log(perimeter)
+// Resultado 26.
