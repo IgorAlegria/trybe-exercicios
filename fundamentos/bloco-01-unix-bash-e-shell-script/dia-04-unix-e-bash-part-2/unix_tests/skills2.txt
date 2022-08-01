@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+JavaScript
+Kernel
+Shell
+Git
+React
