@@ -1,0 +1,272 @@
+    1  sudo apt install ./<file>.deb
+    2  sudo apt update
+    3  clear
+    4  sudo dpkg -i code_1.68.1-1655263094_amd64.deb
+    5  sudo dpkg -i code 1.68.1-1655263094_amd64.deb
+    6  sudo apt update
+    7  clear
+    8  sudo apt dpkg -i code_1.68.1-1655263094_amd64.deb
+    9  sudo snap install slack
+   10  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | 
+   11  clear
+   12  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   13  sudo apt curl
+   14  sudo apt curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   15  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   16  clear
+   17  sudo apt curl
+   18  source ~/.bashrc
+   19  clear
+   20  curl --version
+   21  clear
+   22  sudo apt install curl
+   23  clear
+   24  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   25  tail ~/.bashrc
+   26  source ~/.bashrc
+   27  nvm install 16
+   28  cd /
+   29  ls
+   30  ls -a
+   31  ls
+   32  cd dev
+   33  ls
+   34  cd hpet
+   35  cd /
+   36  clear
+   37  ls
+   38  cd user
+   39  clear
+   40  ls
+   41  cd home
+   42  ls
+   43  cd igor
+   44  ls
+   45  clear
+   46  ls
+   47  cd musica
+   48  cd Música
+   49  mkdir trybe
+   50  ls
+   51  cd trybe
+   52  cd .
+   53  cd ..
+   54  ls -a
+   55  cd ..
+   56  pwd
+   57  clear
+   58  ls
+   59  cd Música
+   60  ls
+   61  cd trybe
+   62  ls
+   63  clear
+   64  ls
+   65  cp 'Documento sem titulo 1' arquivo2
+   66  ls
+   67  cp arquivo1 aquivo2
+   68  ls
+   69  cat arquivo1
+   70  cat arquivo2
+   71  car aquivo2
+   72  cat aquivi2
+   73  cat aquivo2
+   74  clear
+   75  mv aquivo2 /home/igor/Música
+   76  ls
+   77  cd ..
+   78  ls
+   79  clear
+   80  rm aquivo2
+   81  ls
+   82  cd tribe
+   83  cd trybe
+   84  cd ..
+   85  mkdir apagar
+   86  ls
+   87  rmdir apagar
+   88  ls
+   89  rmdir trybe
+   90  rm -rf trybe
+   91  ls
+   92  mkdir trybe
+   93  ls
+   94  clear
+   95  ls
+   96  cd trybe
+   97  ls
+   98  cat arquivo1
+   99  less arquivo1
+  100  head arquivo1
+  101  head -3 arquivo1
+  102  tail arquivo1
+  103  tail -3 arquivo1
+  104  less arquivo1
+  105  grep 1
+  106  grep 1 arquivo1
+  107  grep -i 1 arquivo1
+  108  grep '19' arquivo1
+  109  grep '9' arquivo1
+  110  grep v '9' arquivo1
+  111  grep -iv '9' arquivo1
+  112  clear
+  113  grep -in '9' arquivo1
+  114  grep -ic '9' arquivo1
+  115  clear
+  116  wc arquivo1
+  117  wc -w arquivo1
+  118  wc -l arquivo1
+  119  wc -c arquivo1
+  120  clear
+  121  cd ~
+  122  ls
+  123  cd Música
+  124  ls
+  125  clear
+  126  ls
+  127  ls *
+  128  ls
+  129  cd trybe
+  130  ls
+  131  cd ..
+  132  mkdir pasta2
+  133  ls
+  134  mv outroarquivo pasta2
+  135  ls
+  136  cd pasta2
+  137  ls
+  138  clear
+  139  cd ..
+  140  clear
+  141  ls *
+  142  clear
+  143  pwd
+  144  ls ?asta2
+  145  man
+  146  man ls
+  147  whatis cp
+  148  whatis mv
+  149  man mv
+  150  apropos
+  151  apropos copy
+  152  clear
+  153  cd
+  154  clear
+  155  ls
+  156  cd Música
+  157  ls
+  158  cd trybe
+  159  ls
+  160  grep -iv '10' arquivo1
+  161  grep -in '10' arquivo1
+  162  man grep
+  163  grep '10' arquivo1
+  164  grep '1' arquivo1
+  165  grep -v '1' arquivo1
+  166  clear
+  167  mkdir unix_tests
+  168  ls
+  169  cd unix_tests
+  170  touch trybe.txt
+  171  cp trybe.txt trybe_backup.txt
+  172  ls
+  173  mv trybe.txt trybee.txt
+  174  ls
+  175  mkdir backup
+  176  mv trybe_backup.txt backup
+  177  cd backup
+  178  ls
+  179  cd ..
+  180  mkdir backup2
+  181  ls
+  182  cd backup
+  183  ls
+  184  mv trybe_backup.txt backup2
+  185  ls
+  186  mv backup2 trybe_backup.txt
+  187  ls
+  188  cd ..
+  189  mv trybe_backup.txt backup
+  190  ls
+  191  clear
+  192  cd backup
+  193  ls
+  194  mv trybe_backup.txt backup
+  195  ls
+  196  mv backup trybe_backup.txt
+  197  ls
+  198  mv trybe_backup.txt unix_tests
+  199  ls
+  200  mv unix_tests trybe_backup.txt
+  201  ls
+  202  cd ..
+  203  ls
+  204  clear
+  205  ls *
+  206  cd backup
+  207  ls
+  208  mv trybe_backup.txt ../backup2
+  209  ls
+  210  cd ..
+  211  rmdir backup
+  212  mv backup2 backup
+  213  ls
+  214  pwd
+  215  rm -rf backup
+  216  ls
+  217  clear
+  218  ls
+  219  cat skills.txt
+  220  less -5 skills
+  221  less -5 skills.txt
+  222  head -5 skills.txt
+  223  tail -4 skills.txt
+  224  touch teste1.txt
+  225  ls
+  226  touch teste2.txt teste3.txt teste4 .txt
+  227  ls
+  228  rm *.txt
+  229  ls
+  230  rm teste4
+  231  ls
+  232  clear
+  233  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  234  cat countries.txt
+  235  less countries.txt
+  236  grep 'Brazil' countries.txt
+  237  grep -a 'brazil' countries.txt
+  238  grep -i 'brazil' countries.txt
+  239  ls
+  240  grep -iv 'fox' pharases.txt
+  241  wc pharases.txt
+  242  man wc
+  243  wc -w pharases.txt
+  244  wc -l pharases.txt
+  245  touch empty.tbt empty.pdf
+  246  ls
+  247  ls *.txt
+  248  ls *.txt *.tbt
+  249  man ls
+  250  clear
+  251  ls
+  252  cat > cores.txt
+  253  ls
+  254  cat cores.txt
+  255  cat >> cores.txt
+  256  cat cores.txt
+  257  cat cores.txt pharases.txt > teste.txt
+  258  ls
+  259  cat teste.txt
+  260  sort < teste.txt
+  261  clear
+  262  sort < teste.txt > testeOrdenado.txt
+  263  cat testeOrdenado.txt
+  264  who
+  265  who | wc
+  266  who
+  267  ls
+  268  cd unix_tests
+  269  ls
+  270  cat cores.txt pharases.txt
+  271  history
+  272  history | cat > historico.txt
