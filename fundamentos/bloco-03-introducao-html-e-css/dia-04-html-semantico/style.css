@@ -1,0 +1,41 @@
+.header h1, h3{
+  padding-left: 10px;
+}
+
+.header{
+  position: absolute;
+  background-color: rgb(20, 194, 194);
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+.navigation ul{
+  position: absolute;
+  background-color: aqua;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  left: 0px;
+  top: 100px;
+  padding-left: 0px;
+}
+
+.navigation li{
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.content{
+  position: absolute;
+  z-index: 3;
+  top: 130px;
+}
+
+.footer{
+  position: absolute;
+  top: 1350px;
+  z-index: 4;
+}
